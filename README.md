@@ -20,6 +20,8 @@
 - https://www.youtube.com/watch?v=6w6E_B55p0E
 - 
 
+# Articles
+- https://www.notion.so/blog/sharding-postgres-at-notion
 
 # lerning
 - https://brooker.co.za/blog/2019/04/03/learning.html
