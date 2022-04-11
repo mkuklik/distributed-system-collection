@@ -36,6 +36,11 @@
 # Fault Injection
 - https://github.com/jepsen-io/jepsen
 
+# Recommendation systems
+- https://blog.fennel.ai/p/real-world-recommendation-system
+
+# rate limiter
+- 
 
 # other collections
 - https://github.com/theanalyst/awesome-distributed-systems
